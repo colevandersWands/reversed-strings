@@ -9,8 +9,9 @@ Reverser: function
   * A backwards version of the string passed in
 * Behavior: Takes in a string, reverses the letters, and returns it.
 
-### Index
 
+### Index
+* [Solution Explanation](#solution-explanation)
 
 ---
 solution explanation
