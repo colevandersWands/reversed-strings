@@ -10,6 +10,6 @@ function solution(str){
  
     //Step 3. Return the reversed string
     return reverse.join("") // "dlrow"
-}
+};
 
 // solution written by MzLovelyj - https://www.codewars.com/users/MzLovelyj
