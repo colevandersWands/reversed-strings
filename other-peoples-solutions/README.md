@@ -1,0 +1,1 @@
+Each file in this folder contains my analysis of another Codewarer's solution to the same problem.

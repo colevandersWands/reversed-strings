@@ -1,12 +1,3 @@
-```js
-function solution(str){
-  if (str.length === 0) {
-    return '';
-  } else {
-    return solution(str.substr(1)) + str[0];
-  }
-}
-```
 # [Janpot](https://www.codewars.com/users/janpot)'s Solution
 
 ```js
