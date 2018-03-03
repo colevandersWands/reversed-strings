@@ -1,1 +1,1 @@
-Each file in this folder contains my analysis of another Codewarer's solution to the same problem.
+Choose 2-4 solutions written by other Codewar users and analyze how they did it.

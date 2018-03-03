@@ -1,14 +1,20 @@
-# [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
+> 1. Fork this repo
+> 2. Set your gh-pages to build from master branch
+> 3. Choose a Codewar Kata to study
+> 4. Go through the repo and fill in every blank
+> 5. Publish and include in your Codewar Gallery
 
-Complete the solution so that it reverses the string value passed into it.
 
-Reverser: function
-* Args: 1
-  * str: String
-    * A string to be reversed.
-* Return: String
-  * A backwards version of the string passed in.
-* Behavior: Takes in a string, reverses the letters, and returns it.
+# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
+
+Explain the challenge as completely as you can.
+
+<function name>: Function
+* Args: (how many args does this function take?)
+  * (List each arg, it's type, and it's purpose)
+* Return: (what type does this function return?)
+  * (Describe the return value)
+* Behavior: (What does this function do?)
 
 
 ### Index
@@ -20,16 +26,7 @@ Reverser: function
 ---
 ## Solution Explanation
 
-This solution works in 4 steps:
-0. Take in a string as an argument.
-1. Individually map the letters of the argument into an array using String.split("").
-2. Reverse the elements in the array with Array.revers().
-3. Concatenate the letters in the array using Array.join("").
-4. Return the freshly reversed string.
-
-This problem is pretty simple so I didn't have to use any particular problem solving techniques.  A step-by-step solution was good enough since I was able to find native JS methods to do the work for me.
-
-(The solution used in this demo was written by [MzLovelyj](https://www.codewars.com/users/MzLovelyj))
+Explain your solution in detail, however works for you.  Perhaps by using a specific input to illustrate, by listing the strategies you used, or by including a diagram [directly from Sketchboard.io](https://sketchboard.io/blog/2014/03/06/github-sketchboard.html).
 
 [TOP](#index)
 
@@ -37,22 +34,14 @@ This problem is pretty simple so I didn't have to use any particular problem sol
 
 ## Language Features
 
-This solution relied on a few native methods:
-* Array.join
-* Array.revers
-* String.split
-
-I did not use any control flow in this problem.
+List the language features used in your solution.
 
 [TOP](#index)
 
 ---
 ## Uses
 
-Here are a few applications that could use this function:
-* A scrabble AI
-* A coding/decoding application
-* Online boggle board
+List some applications or use cases for your solution.  Try for 3-5.
 
 
 [TOP](#index)
@@ -62,25 +51,28 @@ Here are a few applications that could use this function:
 ## Learning Journal
 
 Things I learned studying this problem:
-* Reading MDN documentation
-* What "native language features" means
-* How to write specs
-* For loops can go down to 0
+* 
+*
+*
+*
 
 New vocabulary:
-* Method: A function property in an object
-* Test case: A sample input/output pair for a function 
+* 
+* 
+*
+*
 
-Things I still struggle with:
-* Choosing good test cases
-* Errors from misspelling
-* Finding helpful stack-overflow questions
-* Understanding other people's solutions
+Things I struggled with:
+* 
+* 
+* 
+* 
 
-Next study goals:
-* Practice reading documentation
-* Finding 2 more test cases for each problem
-* Writing more readable solutions
+My study goals and stragegies:
+* 
+* 
+* 
+*
 
 
 [TOP](#index)

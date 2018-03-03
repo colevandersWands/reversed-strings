@@ -1,19 +1,36 @@
 tests({
 
-  'eert': function() {
-    eq("tree", solution("eert"));
+  // Fill this in with test cases for your solution
+
+  '': function() {
+    eq("", solution(""));
   },
-  'car': function() {
-    eq("rac", solution("car"));
+  '': function() {
+    eq("", solution(""));
   },
-  'pencil': function() {
-    eq("licnep", solution("pencil"));
+  '': function() {
+    eq("", solution(""));
   },
-  '8873024': function() {
-    eq("4203788", solution("8873024"));
+  '': function() {
+    eq("", solution(""));
   },
-  '##&][&##': function() {
-    eq("##&][&##", solution("##&][&##"));
+  '' function() {
+    eq("", solution(""));
+  },
+  '': function() {
+    eq("", solution(""));
+  },
+  '': function() {
+    eq("", solution(""));
+  },
+  '': function() {
+    eq("", solution(""));
+  },
+  '': function() {
+    eq("", solution(""));
+  },
+  '' function() {
+    eq("", solution(""));
   }
 
 });
