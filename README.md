@@ -1,8 +1,9 @@
 > 1. Fork this repo
 > 2. Set your gh-pages to build from master branch
-> 3. Choose a Codewar Kata to study
-> 4. Go through the repo and fill in every blank
-> 5. Publish and include in your Codewar Gallery
+> 3. Put a link to the tests in your repo's description
+> 4. Choose a Codewar Kata to study
+> 5. Go through the repo and fill in every blank
+> 6. Publish and include this repo in your Codewar Gallery
 
 
 # [<challenge name>](https://www.codewars.com/kata/<challenge name>)
