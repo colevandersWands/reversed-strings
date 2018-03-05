@@ -19,12 +19,26 @@ Explain the challenge as completely as you can.
 
 
 ### Index
+* [Solution Process](#solution-process)
 * [Solution Explanation](#solution-explanation)
 * [Language Features](#language-features)
 * [Uses](#uses)
 * [Learning Journal](#learning-journal)
 
 ---
+
+## Solution Process
+
+Using plain sentences and pseudocode, explain the process you followed from reading the Codewar prompt to coding your final solution.  Describe what you were thinking at every step, how that step moved you forward (or backwards, note that too!), and provide a little pseudocode to illustrate each step.
+
+This may feel tedious but we promise you it will pay off in the long run.  By paying attention to you thinking process you will start to notice what strategies work for you, which strategies you use too often, and where you struggle.  Even more importantly, writing out your process will help you generalize your problem solving skills - taking them from the world of coding small challenges to the world of application development.
+
+It will feel a little tedious to be going into such detail on small problems.  Stick with it!  It's best to learn how to analyze your thinking while the problems are simpler.  You don't want to be trying to understand a full project __and__ your problem solving style a the same time.
+
+[TOP](#index)
+
+---
+
 ## Solution Explanation
 
 Explain your solution in detail, however works for you.  Perhaps by using a specific input to illustrate, by listing the strategies you used, or by including a diagram [directly from Sketchboard.io](https://sketchboard.io/blog/2014/03/06/github-sketchboard.html).
