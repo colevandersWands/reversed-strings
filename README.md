@@ -1,4 +1,4 @@
-> 1. Fork this repo
+> 1. Fork+clone this repo
 > 2. Set your gh-pages to build from master branch
 > 3. Put a link to the tests in your repo's description
 > 4. Choose a Codewar Kata to study
