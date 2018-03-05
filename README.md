@@ -51,6 +51,10 @@ Explain your solution in detail, however works for you.  Perhaps by using a spec
 
 List the language features used in your solution.
 
+The focus of these exercises are to strengthen you problem solving skills, not to learn the newest ES6 tricks. When you have the choice between to different language features it is better to choose the option that is easiest to read, most common, or most consistent with the rest of your solution.  
+
+Keeping track of the language features you use will enable you separate the problem solving strategy from the implementation.  Being aware of this difference will be an asset later on when you're faced with larger applications and popular frameworks.
+
 [TOP](#index)
 
 ---
