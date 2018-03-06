@@ -1,6 +1,7 @@
 # Sample Input
 
-Overview
+
+<a href="https://goo.gl/<your url>" target="_blank">Permalink to the <your argument> step-through</a>
 
 ```js
 // solution, and a use case
@@ -8,25 +9,44 @@ Overview
 ```
 ---
 
-## Step 0 - JavaScript's initial parse
-* _Memory_: (Things the computer knows)
-  * arg: 
-  * solution: 
-* _Operations_: (Things the computer does)
-  * 
-* _Displayed_: (Things the user sees)
-  * Nothing
+## Step 1
+
+* __Global Context__
+  * _Variables_
+    a. 
+  * _Objects
+    a.
+* __Other Contexts__
+  * _Variables_
+    a. 
+  * _Objects
+    a.
+
+Description of what happened in this step
 
 ---
 
-## Step 1 - Begin executing commands
-* _Memory_: 
-  * arg: 
-  * solution: 
-* _Operations_: 
-  * 
-* _Displayed_: 
-  * Nothing
+...
+
+---
+
+## Step N
+
+
+* __Global Context__
+  * _Variables_
+    a. 
+  * _Objects
+    a.
+* __Other Contexts__
+  * _Variables_
+    a. 
+  * _Objects
+    a.
+
+Description of what happened in this step
+
+
 
 ___
 ___
