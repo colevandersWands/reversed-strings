@@ -21,6 +21,7 @@ Explain the challenge as completely as you can.
 ### Index
 * [Solution Process](#solution-process)
 * [Solution Explanation](#solution-explanation)
+* [Constraints](#constraints)  
 * [Language Features](#language-features)
 * [Uses](#uses)
 * [Learning Journal](#learning-journal)
@@ -48,6 +49,14 @@ Explain your solution in detail, however works for you.  Perhaps by using a spec
 [TOP](#index)
 
 ---
+
+## Constraints
+
+List and explain the constraints you placed on your solution.
+
+
+[TOP](#index)
+___
 
 ## Language Features
 
