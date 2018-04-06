@@ -38,7 +38,10 @@ __Classifications of inputs:__
 * String or not
 
 __Input/Output Pairs:__
-* 
+
+__Specific Examples:__
+* figure out your strategy
+* undersand the challenge
 
 [TOP](#index)
 
