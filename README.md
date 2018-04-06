@@ -2,6 +2,8 @@
 
 Complete the solution so that it reverses the string value passed into it.
 
+[Run my solution](https://goo.gl/uDdE4Q)
+
 reversed_strings: Function
 * Args: 1
   1. String: to be reversed
