@@ -10,5 +10,11 @@ tests({
   },
   'empty string': function() {
     eq("", reversed_strings(""));
+  },
+  'even': function() {
+    eq("neve", reversed_strings("even")); 
+  },
+  'odd': function() {
+    eq("neves", reversed_strings("seven"));
   }
 });
