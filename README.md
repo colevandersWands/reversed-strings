@@ -1,21 +1,13 @@
-> 1. Fork+clone this repo
-> 2. Set your gh-pages to build from master branch
-> 3. Put a link to the tests in your repo's description
-> 4. Choose a Codewar Kata to study
-> 5. Go through the repo and fill in every blank
-> 6. Publish and include this repo in your Codewar Gallery
+# [Reversed Strings](https://www.codewars.com/kata/reversed-strings)
 
+Complete the solution so that it reverses the string value passed into it.
 
-# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
-
-Explain the challenge as completely as you can.
-
-<function name>: Function
-* Args: (how many args does this function take?)
-  * (List each arg, it's type, and it's purpose)
-* Return: (what type does this function return?)
-  * (Describe the return value)
-* Behavior: (What does this function do?)
+reversed_strings: Function
+* Args: 1
+  1. String: to be reversed
+* Return: String
+  * It's the string that came in but backwards
+* Behavior: It takes in a string and reverses it
 
 
 ### Index
@@ -37,6 +29,16 @@ This may feel tedious but we promise you it will pay off in the long run.  By pa
 If you find yourself getting stuck or having trouble understanding just what you're supposed to do, try taking a few simple examples inputs and solving them by hand.  This will make the problem more tangible and less abstract.  Be sure to include these manual solutions in your process description!
 
 Stick with it!  It's best to learn how to analyze your thinking while the problems are simpler.  You don't want to be trying to understand a full project __and__ your problem solving style a the same time.
+
+__Things to measure:__
+* length
+* even or odd
+
+__Classifications of inputs:__
+* String or not
+
+__Input/Output Pairs:__
+* 
 
 [TOP](#index)
 
