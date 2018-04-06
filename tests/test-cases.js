@@ -2,11 +2,13 @@ tests({
 
   // Fill this in with test cases for your solution
 
-  '': function() {
-    eq("", reversed_strings(""));
+  'palindrome': function() {
+    eq("racecar", reversed_strings("racecar"));
   },
-  '': function() {
+  'repeated word': function() {
+    eq("albalbalb", reversed_strings("blablabla"));
+  },
+  'empty string': function() {
     eq("", reversed_strings(""));
   }
-
 });
